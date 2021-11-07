@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
+    introTitle: 'Kly à!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
+    Mà sao ank cứ đi nhầm đường
+    Lạc vào tim ekm lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    title: 'chào ck nhă 😏',
+    desc: 'kly đã thích plinh ngay từ khi mình được ghép qua chatible rồi phải không ? ',
+    btnYes: 'đúng ruiiii ',
+    btnNo: 'Không hề',
+    question:'Trên thế giới hơn 7 tỉ người mà sao ank lại yêu ekm <3',
+    btnReply: 'Gửi cho plinh <3',
+    reply: 'tại vì plinh xinh gái học giỏi đoóoo :3',
+    mess: 'ekm biết mà 🥰. Yêu ank nhiều nhiều 😘😘',
+    messDesc: '@nk s3~ đ0ng` ý l@y 3km cku ?',
+    btnAccept: '0k hoiiii',
+    messLink: 'https://m.me/nguyenphuonglinh0303' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
